@@ -24,9 +24,9 @@ const Footer = () => {
           <div className="lg:col-span-2 flex flex-col items-start pr-4">
             <div className="bg-white p-2 rounded-lg mb-6 inline-block">
               <img 
-                src="/logo.png" 
+                src="/logo/Black%20No%20Background.png" 
                 alt="Bharat EV Prime Logo" 
-                className="h-10 md:h-12 w-auto object-contain" 
+                className="h-[46px] md:h-[56px] w-auto object-contain" 
               />
             </div>
             <p className="text-green-100/80 text-sm md:text-[15px] leading-relaxed mb-6 max-w-xs">

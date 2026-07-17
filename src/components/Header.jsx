@@ -14,7 +14,7 @@ const Header = () => {
       <header className="fixed top-0 left-0 w-full z-50 bg-white/90 backdrop-blur-md transition-all duration-300">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl py-2 lg:py-3 flex justify-between items-center">
         <Link to="/" className="flex items-center cursor-pointer">
-          <img src="/logo.png" alt="Bharat EV Prime Logo" className="h-10 md:h-12 lg:h-16 w-auto object-contain drop-shadow-sm" />
+          <img src="/logo/Black%20No%20Background.png" alt="Bharat EV Prime Logo" className="h-[46px] md:h-[56px] lg:h-[72px] w-auto object-contain drop-shadow-sm" />
         </Link>
 
         <nav className="hidden md:flex gap-6 lg:gap-8 font-medium text-sm lg:text-base">
